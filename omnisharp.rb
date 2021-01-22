@@ -3,7 +3,7 @@ class Omnisharp < Formula
   homepage "http://www.omnisharp.net/"
   url "https://github.com/OmniSharp/omnisharp-roslyn/releases/download/v1.37.6/omnisharp-osx.tar.gz"
   version "1.37.6"
-  sha256 "a5e6c0536b35ae8fadabb02769528e203a138f1338759c02468d642680115be6"
+  sha256 "e06d7a287a16d0c9290eb41085c7996e738c5cb0c2e59311c60c2455339295bc"
   conflicts_with "omnisharp-mono"
 
   depends_on "mono" => :recommended
